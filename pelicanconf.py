@@ -1,5 +1,5 @@
 AUTHOR = 'Ben Griffith'
-SITENAME = 'My Pelican Blog'
+SITENAME = 'bengriffith.dev'
 SITEURL = ''
 
 STATIC_PATHS = ['images', 'extra/CNAME']
