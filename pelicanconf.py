@@ -9,7 +9,7 @@ EXTRA_PATH_METADATA = {
 
 MENUITEMS = [
     ('Home', '/'),
-    ('Posts', '/archives.html')
+    ('Posts', 'archives.html')
 ]
 
 PATH = 'content'

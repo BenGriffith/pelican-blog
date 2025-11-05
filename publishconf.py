@@ -1,6 +1,6 @@
 from pelicanconf import *
 
-SITEURL = 'https://bengriffith.github.io'
+SITEURL = 'https://bengriffith.dev'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
